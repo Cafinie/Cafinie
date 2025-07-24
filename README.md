@@ -1,89 +1,68 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=✨%20Hi%20there%2C%20I’m%20Rashina%20aka%20Cafinie!;💻%20Coding%20my%20way%20to%20Glow%20Up%202025!;☕%20Coffee%20+%20Code%20=%20Perfect%20Combo!" width="100%" />
+<!-- Header Image -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/59/e3/56/59e3560d2b5c456b5c4cb66f9573fcdf.gif" width="300px" alt="Caffinie's Vibe"/>
+</p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e4/c3/93/e4c39345a5dcf9bdbf4212289e426988.gif" width="250" />
-</div>
-
----
-
-## 🌸 About Me
-
-💬 I'm Rashina Chaudhry — a Software Engineering student, Java enthusiast, UI dreamer, and coffee-lover!  
-🌟 My vibe? Aesthetic interfaces, unique ideas, and meaningful projects.  
-🎯 Currently preparing for a **Hackathon** and glowing up for 2025!
+<h1 align="center">✨ 𝓗𝓲 𝓘'𝓶 𝓒𝓪𝓯𝓯𝓲𝓷𝓲𝓮 — Rashina Chaudhry ✨</h1>
 
 ---
 
-## 🌟 2025 My Glow-Up Goals
-
-- ✨ Build 3+ portfolio-worthy websites
-- 🧠 Master DSA, OOP, and DBMS (Hackathon prep!)
-- 🔥 Start contributing to open source
-- 👩‍💻 Launch my **Portfolio Website** (very aesthetic & personal)
-- 📄 Make a resume that makes HR stop scrolling
+## ☕ About Me
+> A passionate beginner in tech with a deep love for coffee, UI aesthetics, and creative coding vibes.  
+> Strong foundation in **Java, programming fundamentals**, and a vision to build **unique, purposeful projects**.  
+> Exploring my creative side through **UI/UX designs**, personal diaries, and skincare web ideas 🌿.
 
 ---
 
-## 🎯 Currently Practicing
-
-- ⚙️ Java Programming Fundamentals (my strongest skill 💪)
-- 🎨 HTML + CSS (via CodeWithHarry)
-- 💡 Firebase & GitHub Projects for backend basics
-- 💻 UI design ideas from Dribbble & Pinterest
-- 🌱 Learning Git & GitHub (with Live Server + GitHub Pages)
-
----
-
-## 📚 Skills in Progress
-
-| Skill            | Level        |
-|------------------|--------------|
-| Java             | ⭐⭐⭐⭐✩        |
-| HTML & CSS       | ⭐⭐⭐✩✩        |
-| Git & GitHub     | ⭐⭐✩✩✩        |
-| Firebase         | ⭐⭐✩✩✩        |
-| React (soon)     | 🕐 Coming Up  |
+## 🌟 2025 My Glow Up Goals
+- 🌱 Polish my **Java + DSA** skills  
+- 🚀 Complete **React.js + Firebase** Projects  
+- 🌍 Publish my **first live portfolio website**  
+- 🛠 Build websites for small businesses (like *Floral Skincare*)  
+- 🧠 Compete in **Hackathons** and gain recognition  
+- 🎯 Be confident to apply for internships/freelance roles!
 
 ---
 
-## ☕ Unique & Fun Project Ideas
-
-- 📖 **Study Dairy** — not basic, but a *self-care meets study tracker* with moods, goals & tasks 🌼  
-- 🧴 **Floral Skincare Website** — for my khala (maternal aunt) who owns a beauty brand  
-- 🍪 **Café Vibes** — dream project with coffee recipes + blog  
-- 🎨 **Aesthetic Landing Pages** — cloning beautiful UIs from top brands
+## 🔥 Currently Practicing
+- ✨ HTML & CSS with *CodeWithHarry*  
+- 🎨 UI Design & Color Combos  
+- 💻 Java programming (OOP + Basics done ✅)  
+- 💡 Hosting via GitHub Pages  
+- 📁 Git & Version Control basics
 
 ---
 
-## ⚔️ Hackathon Journey
+## 🚧 Skills in Progress
+- 📚 Firebase  
+- ⚛️ React.js  
+- 🧠 Advanced DSA  
+- 🐍 Python Basics  
+- 🛠 Real-world Web Development
 
-> 🚀 *Vision: To win Hackathon 2025 (and glow up with it)*
+---
 
-👩‍💻 Hackathon preparation includes:
-- Programming Fundamentals  
-- DSA with Java  
-- DBMS practice  
-- Object-Oriented Design  
-- Git & GitHub for collaboration  
-- HackerRank challenges 🔥
+## 💡 Innovative Project Ideas
+- 📒 **Study Diary App** — with motivational quotes, custom timers, mood tracker, and revision scheduler  
+- 🧁 **Baking Recipe Vault** — cozy UI, voice-read instructions, and bookmark features  
+- 🧴 **Floral Skincare Website** — professional ecommerce showcase for my Khala's cosmetic brand  
+- ☕ **The Coffee Bar** — a cozy café site design with menu animation, aesthetic vibes & order form
+
+---
+
+## 🏆 Hackathon Journey
+- 🔎 Preparing with **Hackerrank** daily  
+- 💪 Syllabus: *Programming Fundamentals, OOP, DSA, DBMS*  
+- 💻 Practicing logic, design, and smart problem-solving  
+- 🎯 Dream: Win a Hackathon & present my unique idea proudly!
 
 ---
 
 ## 📬 Contact Me
-
-- 🌐 [LinkedIn - Rashina Rashad](https://www.linkedin.com/in/rashina-rashad)
-- 📮 Email: `rashina.dev@gmail.com` *(example)*
-- 💬 DM-friendly: GitHub, Insta (optional if public)
+- 🔗 [LinkedIn: Rashina Rashad](https://www.linkedin.com/in/rashina-rashad)  
+- 📩 Email: rashinachaudhry2004933@gmail.com  
 
 ---
 
-> 📝 “Glow-up is not just appearance. It’s becoming the version of yourself that *you* admire.”  
-> — *Cafinie (me!)* ☕🌸
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="200"/>
-  <br/>
-  ☕ Powered by Coffee | Crafted with 💖 by Cafinie
-</div>
+> 💖 *Thanks for visiting my GitHub! Always brewing new ideas like coffee… ☕*  
+.
