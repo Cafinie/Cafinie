@@ -1,78 +1,69 @@
-<h1 align="center">✨ Cafinie: Code, Coffee & Creative Sparks ✨</h1>
-
+<!-- Background and Border -->
 <p align="center">
-🌸 Dreamer • ☕ Coffee Lover • 💻 Self-Taught Dev-in-Growth
+  <img src="https://i.pinimg.com/originals/7b/32/89/7b3289b15c5b3070b2e627cc50bc6e91.jpg" width="100%" style="border-radius:15px;" />
+</p>
+
+<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 3em; color:#ffb6c1;">✨ Hi, I'm Rashina Rashad (aka Caffinie) ✨</h1>
+
+<p align="center" style="font-size:1.1em; color:#f0f0f0;">
+💻 Dreaming in code, sipping coffee, and glowing up in tech!  
 </p>
 
 ---
 
-## 🌟 About Me
-Hey there! I’m **Rashina Rashad**, also known online as **Cafinie** – a passionate explorer of software vibes, creative UIs & the art of learning something new every day. Currently in my software glow-up journey, fueled by caffeine & curiosity ☕✨
+### 🌟 <span style="color:#ff69b4; font-weight:bold;">2025 Glow-Up Goals</span>  
+💖 Master Frontend (React) & Backend (Node.js)  
+📚 Become fluent in DSA, DBMS & OOP  
+🚀 Build 3 major portfolio projects  
+🏆 Win at least 1 hackathon (practice on HackerRank)  
+🎓 Start freelancing as a beginner dev
 
 ---
 
-## 🎯 2025 Glow-Up Goals  
-- 🚀 Win a hackathon or at least give it my best shot!  
-- 🧠 Sharpen my DSA, OOP, and DBMS skills  
-- 🌐 Build 3 real-world websites (including for my khala's brand!)  
-- 📸 Launch my first live portfolio  
-- ✨ Level up UI/UX designs with unique & dreamy layouts  
-- 🤝 Connect with more devs on GitHub & LinkedIn  
-- 🌻 Stay consistent and celebrate little wins  
+### 🚧 <span style="color:#FF8C00;">Currently Practicing</span>  
+- Java (strong in programming fundamentals 💡)  
+- Git & GitHub (my dev diary 📓)  
+- VS Code shortcuts  
+- Live Server hosting  
+- HTML, CSS animations & creative layouts  
 
 ---
 
-## 🔥 Currently Practicing  
-- 👩‍💻 Java Programming Fundamentals  
-- 🎨 HTML & CSS with CodeWithHarry  
-- ⚛️ Basics of React.js  
-- 🔐 Firebase Auth & Firestore  
-- 💡 Design thinking + color combos  
-- 💻 Version Control (Git)  
-- ✨ GitHub Pages & Live Server
+### 🛠️ <span style="color:#DA70D6;">Skills in Progress</span>  
+- React.js + Firebase 🔥  
+- MongoDB + Express  
+- Problem Solving on HackerRank  
+- UI Design Basics with Figma  
 
 ---
 
-## 🧠 Skills in Progress
-- Frontend Development (HTML, CSS, Bootstrap, React)  
-- Git & GitHub  
-- Java (OOP + DSA basics)  
-- Firebase basics  
-- UI Designing (color palette vibes 💅)  
-- Project Planning & Documentation  
+### 💡 <span style="color:#00CED1;">Unique Project Ideas</span>  
+- 📔 **Study Dairy Web App** → With calendar tracker, late-night mode, audio notes  
+- 🍪 **Bakery Recipe Blog** → Animated recipe cards with save-to-favorite feature  
+- 💬 **Quote Journal** → Random quotes + Add your own daily reflections  
+- 🎨 **Color Palette Picker** → Mood-based theme generator  
 
 ---
 
-## 🌈 Unique Project Vibes  
-Here’s what’s brewing in my dev-lab:
-- ☕ **Café Bliss** – A dreamy coffee shop website full of warm aesthetics  
-- 🌸 **Floral Skincare** – For my *maternal aunt* (khala)'s cosmetic brand  
-- 📚 **Study Dairy App** – Not just notes! A complete student planner with AI tips  
-- 🍰 **BakeWise** – My baking recipe & journal web-app  
-- 🪄 **My Personal Portfolio** – A fairy-core inspired developer portfolio!
-
-Got more sparkly ideas loading... ⏳✨
+### 👩‍💻 <span style="color:#FF1493;">My Hackathon Journey</span>  
+- ✅ Practicing HackerRank challenges  
+- ✅ Participated in UOG-based mini hackathon  
+- 💡 Preparing for inter-university hackathons  
+- 🧠 Focusing on DSA + OOP + DBMS core  
 
 ---
 
-## 🏆 Hackathon Journey  
-👩‍💻 Preparing for my first hackathon via:
-- ✅ Practicing on [HackerRank](https://www.hackerrank.com/)
-- ✅ Strengthening Programming Fundamentals, DSA, DBMS & OOP  
-- ✅ Planning innovative projects, not just UI clones  
-- ✅ Understanding teamwork & time-limited coding challenges  
-
-💥 Our vision is to bring something **WOW-worthy** to the table!
+### 📬 <span style="color:#ADFF2F;">Contact Me</span>  
+- 📧 Email: rashinarashad@gmail.com  
+- 💼 LinkedIn: [Rashina Rashad](https://www.linkedin.com/in/rashina-rashad/)  
+- 🧁 Portfolio: Coming soon… 😋  
 
 ---
 
-## 📬 Contact Me
-Let’s connect & grow together 💫  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rashina-rashad)  
-- 💌 Email: *rashinarashad@gmail.com*  
-- 🪄 GitHub: [@Cafinie](https://github.com/Cafinie)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7450481/media/9c915f8d1f1f1389234ea3565e4a3e6b.gif" width="60%" />
+</p>
 
----
-
-> 🌸 *“Build yourself so loud that doubts can’t whisper anymore.”*  
-> With code & coffee, I rise every day ☕💻  
+<p align="center" style="color:#888;">
+with ☕ and 💻 by Caffinie
+</p>
